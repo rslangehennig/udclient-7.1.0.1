@@ -1,0 +1,12 @@
+{
+  "application": "GitLab",
+  "applicationProcess": "Deploy",
+  "environment": "DEV",
+  "versions": [
+    {
+      "version": "latest",
+      "component": "GitLab"
+    }
+  ]
+}
+
